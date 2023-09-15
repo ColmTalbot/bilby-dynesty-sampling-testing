@@ -13,9 +13,11 @@ MANIFEST
 *.txt
 *.log
 *.dat
-*.version
+*.npz
 *.ipynb_checkpoints
 **/outdir
 .idea/*
 bilby/_version.py
 **/__pycache__
+*.version
+_version.py
