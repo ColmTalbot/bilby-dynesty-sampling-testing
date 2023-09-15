@@ -1,0 +1,15 @@
+name: bilby-dynesty-sampling-testing
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - bilby
+  - matplotlib
+  - numpy
+  - pip
+  - pre-commit
+  - python-lalsimulation
+  - scipy
+  - pip:
+    - git+https://github.com/ColmTalbot/dynesty.git@insertion-indices
