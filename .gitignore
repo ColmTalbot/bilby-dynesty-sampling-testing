@@ -12,7 +12,6 @@ MANIFEST
 *.hdf5.old
 *.txt
 *.log
-*.dat
 *.npz
 *.ipynb_checkpoints
 **/outdir
